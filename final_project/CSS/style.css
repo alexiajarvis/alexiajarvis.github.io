@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
+body {
+  background-color: black;
+  color:#d3d3d3;
+  font-family: "Mansalva",cursive;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+img {
+  display:block;
+  margin: 0 auto;
+  width: 300px
+}
